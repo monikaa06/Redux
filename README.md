@@ -1,3 +1,3 @@
 # GUVI-DAY32 REACT REDUX TASK
 
-https://reacts-redux-tasks.netlify.app/
+guileless-figolla-e95b92.netlify.app/
